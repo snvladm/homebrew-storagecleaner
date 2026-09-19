@@ -7,7 +7,7 @@ cask "storagecleaner" do
   desc "Disk cleanup for Mac: caches, app leftovers, large files, duplicates, disk map, startup items"
   homepage "https://github.com/snvladm/storagecleaner-releases"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "StorageCleaner.app"
 
