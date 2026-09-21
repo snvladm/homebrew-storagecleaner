@@ -1,6 +1,6 @@
 cask "storagecleaner" do
   version "1.0.0"
-  sha256 "3d7a247c9d7256e9aab2966ea9e52d4419e95e19d0bf81ef7fe25fdd9991d092"
+  sha256 "14cfd1d635486afd6eaa07c5a0e7d01cb5db3bebbc6cd9d0e6c41a8be73998ae"
 
   url "https://github.com/snvladm/storagecleaner-releases/releases/download/v#{version}/StorageCleaner-#{version}.dmg"
   name "StorageCleaner"
